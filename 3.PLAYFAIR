@@ -106,3 +106,7 @@ void encrypt(char str[], char keyTable[SIZE][SIZE]) {
         }
     }
 }
+OUTPUT:
+Enter the keyword:have a good day
+Enter the plain text:School
+ciphertext:zmofbf
